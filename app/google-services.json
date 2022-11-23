@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943419343991",
+    "project_id": "quanli-dcc1f",
+    "storage_bucket": "quanli-dcc1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943419343991:android:e918e076ba717d9449b272",
+        "android_client_info": {
+          "package_name": "com.example.baikiemtra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943419343991-0o117lsfivtshvhf5smd3qmenvql812s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvXqFWhtWb2vjfJDYTXi8_ARLliDbc-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943419343991-0o117lsfivtshvhf5smd3qmenvql812s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

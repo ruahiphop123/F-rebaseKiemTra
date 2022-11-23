@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaiKiemTra</string>
+    <string name="login_no">Dont you have an account?<b>Sign up</b></string>
+</resources>
